@@ -1,4 +1,4 @@
-# Die Demos für den Schülertag.
+# Demos für den Schülertag.
 
 Eine Reihe von vereinfachten Anfängerbeispielen, die ein erstes Experimentieren mit
 aktuellen KI-Verfahren ermöglichen sollen. 
