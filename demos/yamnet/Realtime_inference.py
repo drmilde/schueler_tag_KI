@@ -1,27 +1,15 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from __future__ import division, print_function
 
 import sys
-
 import numpy as np
 import resampy
 import soundfile as sf
 import tensorflow as tf
-
 import params
 import yamnet as yamnet_model
-
 import pyaudio
 from array import array
 import wave
-
-
-# In[2]:
 
 
 interpreter = tf.lite.Interpreter(model_path="yamnet.tflite")
@@ -30,8 +18,6 @@ inputs = interpreter.get_input_details()
 outputs = interpreter.get_output_details()
 
 yamnet_classes = yamnet_model.class_names('yamnet_class_map.csv')
-
-
 
 
 def classify_sound(file_name):
@@ -56,22 +42,6 @@ def classify_sound(file_name):
     top5_i = np.argsort(prediction)[::-1][:5]
     print( '\n'.join('  {:12s}: {:.3f}'.format(yamnet_classes[i], prediction[i])
                     for i in top5_i))
-
-
-# In[32]:
-
-
-#classify_sound(file_name)
-
-
-# In[33]:
-
-
-
-
-
-# In[34]:
-
 
 FORMAT=pyaudio.paInt16
 CHANNELS=1
@@ -126,11 +96,7 @@ while(True):
     wavfile.close()
     
     classify_sound(FILE_NAME)
-       
-
-
-# In[ ]:
-
+    
 
 
 
