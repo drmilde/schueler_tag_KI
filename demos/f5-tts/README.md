@@ -29,7 +29,7 @@ f5-tts_infer-gradio
 In order to work with the F5-TTS, you will nee to record a small audio sequence of the voice, that
 should be synthesized.
 
-- There is a file "read_text,txt" that you could read out.
+- There is a file **"read_text,txt"** that you could read out.
 - The recording can be done using **Audacity**.
 - export the audio in WAV-format, mono, 16 kHz
 - make sure, that the volume is good (use normalize volume effect in Audacity)
