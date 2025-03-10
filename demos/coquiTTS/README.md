@@ -14,5 +14,7 @@ pip install -r requirements.txt
 
 ```
 python do_speak.py -t "Hallo Zusammen. ich freue mich, dass ihr hier seid."
+afplay output.wav
+
 
 ```
