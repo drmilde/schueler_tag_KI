@@ -13,14 +13,6 @@ pip install -r requirements.txt
 ```
 
 
-## install Software
-
-```
-pip install torch torchaudio
-pip install git+https://github.com/SWivid/F5-TTS.git
-
-```
-
 # Quick start with Gradio web interface
 ```
 f5-tts_infer-gradio
