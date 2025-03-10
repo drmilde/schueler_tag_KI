@@ -11,20 +11,25 @@ CUDA basierte GPUs. Bei Installation unter Ubuntu kann also gegebenenfalls eine
 entsprechende Version von torch und oder tensorflow verwendet werden. 
 
 
-## Bildgenerierung
+## Bildgenerierung 
 
 - foocus
 
-## Sprachsynthese
+## Sprachsynthese (TTS)
 
 - pyttx3
 - coquiTTS
 - F5-TTS
 - kokoro
 
+# Spracherkennung (STT)
+
+- whisper (OpenAI)
+
 # Soundverarbeitung
 
 - fer
+- spleeter (benötigt python 3.8)
 
 ## Bildverarbeitung
 
