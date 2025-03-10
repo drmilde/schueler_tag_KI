@@ -23,6 +23,7 @@ f5-tts_infer-gradio
 ```
 http://127.0.0.1:7860
 ```
+- url(http://127.0.0.1:7860)
 
 
 # Recording the reference audio
