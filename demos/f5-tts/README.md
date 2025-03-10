@@ -24,6 +24,13 @@ pip install git+https://github.com/SWivid/F5-TTS.git
 f5-tts_infer-gradio
 ```
 
+# This starts a webinterface
+
+```
+http://127.0.0.1:7860
+```
+
+
 # Recording the reference audio
 
 In order to work with the F5-TTS, you will nee to record a small audio sequence of the voice, that
