@@ -3,7 +3,7 @@
 # Installation
 
 
-## prepare venv
+## Prepare venv and install requirements.txt
 ```
 deactivate
 python3 -m venv venv
