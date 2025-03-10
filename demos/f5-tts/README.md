@@ -21,7 +21,7 @@ pip install git+https://github.com/SWivid/F5-TTS.git
 
 # Quick start with Gradio web interface
 ```
-f5-tts_finetune-gradio
+f5-tts_infer-gradio
 ```
 
 # Recording the reference audio
