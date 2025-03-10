@@ -1,4 +1,4 @@
-# einfaches TTS 
+# Einfaches TTS 
 
 ## Prepare venv and install requirements.txt
 ```
