@@ -10,3 +10,9 @@ pip install -r requirements.txt
 
 ```
 
+## sage etwas
+
+```
+python do_speak.py -t "Hallo Zusammen. ich freue mich, dass ihr hier seid."
+
+```
