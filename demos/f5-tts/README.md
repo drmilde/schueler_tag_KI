@@ -2,11 +2,18 @@
 
 # Installation
 
+
+## prepare venv
 ```
 deactivate
 python3 -m venv venv
 source venv/bin/activate
+```
 
+
+## install Software
+
+```
 pip install torch torchaudio
 pip install git+https://github.com/SWivid/F5-TTS.git
 
