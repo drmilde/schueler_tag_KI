@@ -23,7 +23,8 @@ f5-tts_infer-gradio
 ```
 http://127.0.0.1:7860
 ```
-- http://127.0.0.1:7860
+
+(CMD+CLick open a new tab): http://127.0.0.1:7860
 
 
 # Recording the reference audio
