@@ -15,3 +15,11 @@ pip install -r requirements.txt
 python do_speak.py -t "Hallo, ich bin ein Computer. Die Synthese funktioniert direkt in Python."
 
 ```
+
+
+## Wiedergabe von Audiodateien
+
+```
+afplay output.wav
+
+```
