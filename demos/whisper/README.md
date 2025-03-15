@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Spracherkennung auf einer wav-Datei
 
 ```
-python getTheModel.py
+python whisper_test.py
 
 ```
 
@@ -25,7 +25,7 @@ Beim ersten Aufruf sollte das Programm das verwendete Modell herunterladen (hier
 Andernfalls kann man sich das Modell auch mit dem kleinen Hilfprogramm holen
 
 ```
-python whisper_test.py
+python getTheModel.py
 
 ```
 
