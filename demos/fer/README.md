@@ -10,6 +10,14 @@ pip install -r requirements.txt
 ```
 
 
+## Starten der Demoanwendung
+```
+python webcam_test.py
+
+
+```
+
+
 
 
 
