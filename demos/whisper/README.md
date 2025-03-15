@@ -1,5 +1,5 @@
-## Spracherkennung mit Whisper
+# Spracherkennung mit Whisper
 
 
 
-# Installation und Aktivierung des venv
+## Installation und Aktivierung des venv
