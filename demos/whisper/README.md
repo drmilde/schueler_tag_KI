@@ -1,1 +1,1 @@
-
+## Spracherkennung mit Whisper
