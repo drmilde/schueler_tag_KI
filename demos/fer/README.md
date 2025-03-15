@@ -10,13 +10,24 @@ pip install -r requirements.txt
 ```
 
 
-## Starten der Demoanwendung
+## Starten der Demoanwendungen
+Test auf einer Biolddatei
 ```
-python webcam_test.py
+python webcam_demo.py
 
 
 ```
 
+
+Live-test mit der Webcam.
+
+```
+python webcam_demo.py
+
+
+```
+
+Test auf einer Biolddatei
 
 
 
