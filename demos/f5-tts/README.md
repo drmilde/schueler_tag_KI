@@ -36,3 +36,10 @@ should be synthesized.
 - The recording can be done using **Audacity**.
 - export the audio in WAV-format, mono, 16 kHz
 - make sure, that the volume is good (use normalize volume effect in Audacity)
+
+# Referenz F5-TTS
+
+Den Code zu dem F5-TTS Systeme findet man unter
+
+- https://github.com/SWivid/F5-TTS
+  
