@@ -1,5 +1,10 @@
 # coqui TTS 
 
+Ein weiteres TTS, diesmal mit einer deutschen Stimme: Thorsten. Nein, nicht meine Stimme, sondern Thorsten Müller,
+der sich enthusiastisch mit TTS beschäftigt und zudem aus Hessen kommt.
+
+- https://github.com/thorstenMueller/Thorsten-Voice?tab=readme-ov-file
+
 
 ## Prepare venv and install requirements.txt
 ```
