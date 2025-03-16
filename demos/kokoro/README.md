@@ -1,15 +1,15 @@
----
-title: Kokoro TTS
-emoji: ❤️
-colorFrom: indigo
-colorTo: pink
-sdk: gradio
-sdk_version: 5.12.0
-app_file: app.py
-pinned: true
-license: apache-2.0
-short_description: Upgraded to v1.0!
-disable_embedding: true
----
+# Kokoro TTS
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Kokoro ist der aktuelle Stern am Himmel der TTS Systeme. Extrem klein, aber es bietet trotzdem eine unglablich
+gute Sprachqualität. 
+
+- https://github.com/hexgrad/kokoro
+
+## Prepare venv and install requirements.txt
+```
+deactivate
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+```
