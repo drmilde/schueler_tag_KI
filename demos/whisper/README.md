@@ -39,7 +39,7 @@ whisper --model medium --model_dir . --output_format txt begruessung.wav
 
 ```
 
-Alternativ ist hoer ein shell-Script zu finden, dass man so auffruft:
+Alternativ ist hier ein shell-Script zu finden, das man so aufruft:
 
 ```
 sh ./do_it.sh
