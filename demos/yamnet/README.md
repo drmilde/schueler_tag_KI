@@ -10,3 +10,12 @@ pip install -r requirements.txt
 
 ```
 
+## Echtzeiterkennung
+
+
+```
+python Realtime.py
+
+
+```
+
