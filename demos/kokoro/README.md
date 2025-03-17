@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 ## Synthetisiere einen längeren Text
 
+Hier werden eine Reihe von wav Dateien erzeugt, die man anschließen mit afplay wiedergeben kann. 
+
 ```
 python do_speak.py
 afplay 1.wav
@@ -25,6 +27,7 @@ afplay 1.wav
 
 ## Start the Web interface
 
+Im Web-Interface kann man die Stimme auswählen und text synthtisieren und wiedergeben.
 
 ```
 python app.py
