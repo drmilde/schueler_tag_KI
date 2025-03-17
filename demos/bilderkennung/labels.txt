@@ -1,0 +1,5 @@
+0 stift
+1 Nichts
+2 handy
+3 Fernbedienung
+4 Filzstift
