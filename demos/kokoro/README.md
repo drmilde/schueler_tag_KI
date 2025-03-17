@@ -13,3 +13,22 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ```
+
+## Synthetisiere einen längeren text
+
+```
+python do_spek.py
+
+
+```
+
+## Start the Web interface
+
+
+```
+python app.py
+
+
+```
+
+
