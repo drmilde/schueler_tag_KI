@@ -11,7 +11,8 @@ pip install -r requirements.txt
 
 
 ## Starten der Demoanwendungen
-Test auf einer Biolddatei
+Test auf einer Bilddatei
+
 ```
 python simple_demo.py
 
@@ -19,18 +20,13 @@ python simple_demo.py
 ```
 
 
-Live-test mit der Webcam.
+## Live-test mit der Webcam.
 
 ```
 python webcam_demo.py
 
 
 ```
-
-Test auf einer Biolddatei
-
-
-
 
 ## Referenzen FER
 
