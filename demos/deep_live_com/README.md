@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Modelle runterladen
 
-Folgen Sie den Anweisungen im Verzeichenis und laden Sie die notwendigen Modell herunter:
+Folgen Sie den Anweisungen im Verzeichnis **models** (instructions.txt) und laden Sie die notwendigen Modell herunter:
 
 - https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx?download=true
 - https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth
