@@ -4,6 +4,9 @@ Mit Teachablemachines lassen sich sehr schnell und einfach Demonstrationssysteme
 Bildern, Sprache und Bewegungen erstellen. Die Modell lassen sich herunterladen und in den eigenen System einsetzen.
 
 
+- https://teachablemachine.withgoogle.com/
+
+
 ## Prepare venv and install requirements.txt
 ```
 deactivate
