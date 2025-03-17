@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ```
 
-## Synthetisiere einen längeren text
+## Synthetisiere einen längeren Text
 
 ```
 python do_spek.py
