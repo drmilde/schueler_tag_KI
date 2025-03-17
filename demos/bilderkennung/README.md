@@ -15,3 +15,9 @@ pip install -r requirements.txt
 
 ## Testen des Bildmodells
 
+
+```
+python keras_opencv.py
+
+```
+
