@@ -35,4 +35,9 @@ python app.py
 
 ```
 
+## Öffnen der Webanwendung
+
+- http://0.0.0.0:40001
+  
+
 
