@@ -17,7 +17,8 @@ pip install -r requirements.txt
 ## Synthetisiere einen längeren Text
 
 ```
-python do_spek.py
+python do_speak.py
+afplay 1.wav
 
 
 ```
