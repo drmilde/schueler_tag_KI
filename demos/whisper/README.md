@@ -1,7 +1,5 @@
 # Spracherkennung mit Whisper
 
-
-
 ## Installation und Aktivierung des venv
 
 
@@ -45,3 +43,11 @@ Alternativ ist hier ein shell-Script zu finden, das man so aufruft:
 sh ./do_it.sh
 
 ```
+
+## Referenz whisper OpenAI
+
+Whisper gilt aktuell als der Goldstandard im Bereich der STT Systeme. Es ist ausgerichtet auf die Erfassung von langen Sprachaufnahmen. 
+
+- https://github.com/openai/whisper
+  
+
