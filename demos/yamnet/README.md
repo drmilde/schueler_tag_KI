@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 
 ```
-python Realtime.py
+python Realtime_inference.py
 
 
 ```
