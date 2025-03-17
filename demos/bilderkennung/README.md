@@ -1,7 +1,7 @@
 # Bilderkennung mit TeachableMachines
 
 Mit Teachablemachines lassen sich sehr schnell und einfach Demonstrationssysteme für die Erkennung von
-Bildern, Sprache und Bewegungen erstellen. Die Modelle lassen sich herunterladen und in den eigenen System einsetzen.
+Bildern, Sprache und Bewegungen erstellen. Die Modelle lassen sich herunterladen und in den eigenen Systemen einsetzen.
 
 
 - https://teachablemachine.withgoogle.com/
