@@ -1,6 +1,6 @@
 # Kokoro TTS
 
-Kokoro ist der aktuelle Stern am Himmel der TTS Systeme. Extrem klein, aber es bietet trotzdem eine unglablich
+Kokoro ist der aktuelle Stern am Himmel der TTS Systeme. Extrem klein, aber es bietet trotzdem eine unglaublich
 gute Sprachqualität. 
 
 - https://github.com/hexgrad/kokoro
