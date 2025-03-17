@@ -4,7 +4,7 @@ import numpy as np
 import argparse
 
 
-parser = argparse.ArgumentParser(description='Test von pyttx3')
+parser = argparse.ArgumentParser(description='Test von face recognition')
 parser.add_argument('-i','--input', help='bild, das analysiert werden soll', required=True)
 args = vars(parser.parse_args())
 file_name = "./unknown/kurs.png"
