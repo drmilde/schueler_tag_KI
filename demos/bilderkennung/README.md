@@ -1,2 +1,17 @@
 # Bilderkennung mit TeachableMachines
 
+Mit Teachablemachines lassen sich sehr schnell und einfach Demonstrationssysteme für die Erkennung von
+Bildern, Sprache und Bewegungen erstellen. Die Modell lassen sich herunterladen und in den eigenen System einsetzen.
+
+
+## Prepare venv and install requirements.txt
+```
+deactivate
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+```
+
+## Testen des Bildmodells
+
