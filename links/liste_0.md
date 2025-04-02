@@ -1,4 +1,20 @@
-# KI-Systeme
+# KI-Systeme und Anwendungsgebiete
+
+- Sprachgenerierung
+- Sprachsynthese
+- Spracherkennung
+- Textanalyse
+- Bildanalyse (OCR)
+- Bildanalyse (Bildverstehen)
+- Bildanalyse (Segmentierung)
+- Bildanalyse (Tiefenabschätzung)
+- Bildanalyse (Gesichtsdetektion/Erkennung)
+- Bildanalyse (Objekttracking)
+- Qualitätssicherung
+- Recommendersysteme
+- Spiele
+- Emotionserkennung
+- Sentimentanalyse
 
 ## LLMs
 
@@ -32,26 +48,6 @@
 - coqui/TTS
 - piper
 - zonos
-
-# Anwendungsgebiete
-
-Sprachgenerierung
-Sprachsynthese
-Spracherkennung
-Textanalyse
-
-Bildanalyse (OCR)
-Bildanalyse (Bildverstehen)
-Bildanalyse (Segmentierung)
-Bildanalyse (Tiefenabschätzung)
-Bildanalyse (Gesichtsdetektion/Erkennung)
-Bildanalyse (Objekttracking)
-
-Qualitätssicherung
-Recommendersysteme
-Spiele
-Emotionserkennung
-Sentimentanalyse
 
 # Links
 
