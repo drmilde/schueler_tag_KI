@@ -87,8 +87,8 @@ Hinweise:
 * Die ethische Diskussion offen und kontrovers führen.
 Ich hoffe, dieses Konzept hilft Ihnen bei der Vorbereitung Ihres Kurses!
 
-=========================
-Ethik: Einkaufen mit Bonus-App
+
+## Ethik: Einkaufen mit Bonus-App
 
 Wie kann man Gradient Boost einsetzten um die Einkäufe von Menschen so, auszuwerten, dass man deren Lebensgewohnheiten Vorhersagen kann. Kann das System selbständig Gewohnheiten finden ? Welche Daten muss ich dazu bereitstellen?
 
