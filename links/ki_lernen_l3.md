@@ -54,137 +54,46 @@
 - https://github.com/StacklokLabs/promptwright?tab=readme-ov-file
 - https://medium.com/@danielwume/getting-started-with-nltk-10-essential-examples-for-natural-language-processing-in-python-54451eae1366q
 - https://github.com/PolymathicAI/the_well
-
-
-https://towardsdatascience.com/build-a-general-purpose-ai-agent-c40be49e7400
-
-https://github.com/Anello92/machine-learning-template
-
-
-
-
-https://towardsdatascience.com/predicted-probability-explained-a-visual-guide-with-code-examples-for-beginners-7c34e8994ec2
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2024/12/10/hugging-face-releases-text-generation-inference-tgi-v3-0-13x-faster-than-vllm-on-long-prompts/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17342779084296&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2024%2F12%2F10%2Fhugging-face-releases-text-generation-inference-tgi-v3-0-13x-faster-than-vllm-on-long-prompts%2F
-
-
-
-https://nlp-ensae.github.io/materials/
-
-
-
-https://www.kdnuggets.com/visualizing-data-directly-numpy-arrays
-
-
-https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/
-
-https://www.kdnuggets.com/multimodal-rag-implementation-hugging-face
-
-
-
-https://medium.com/@erdibillkaan/object-detection-and-face-recognition-with-yolov8n-356b22bacc48
-
-
-https://dev.to/dwtoledo/how-to-use-deepseek-r1-for-free-in-visual-studio-code-with-cline-or-roo-code-3an9
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/01/27/building-a-retrieval-augmented-generation-rag-system-with-deepseek-r1-a-step-by-step-guide/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17380940202687&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F01%2F27%2Fbuilding-a-retrieval-augmented-generation-rag-system-with-deepseek-r1-a-step-by-step-guide%2F
-
-
-https://github.com/Ajmal0197/DeepseekOllamaRag
-
-https://levelup.gitconnected.com/llm-frameworks-in-action-building-rag-systems-with-langchain-llamaindex-and-haystack-a2ee324ee797
-
-https://www.kdnuggets.com/10-advanced-python-tricks-data-scientists
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/02/creating-a-medical-question-answering-chatbot-using-open-source-biomistral-llm-langchain-chromas-vector-storage-and-rag-a-step-by-step-guide/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17385660996984&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F02%2Fcreating-a-medical-question-answering-chatbot-using-open-source-biomistral-llm-langchain-chromas-vector-storage-and-rag-a-step-by-step-guide%2F
-
-
-https://towardsdatascience.com/a-visual-guide-to-how-diffusion-models-work/
-
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/08/fine-tuning-of-llama-2-7b-chat-for-python-code-generation-using-qlora-sfttrainer-and-gradient-checkpointing-on-the-alpaca-14k-dataset/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17391294054675&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F08%2Ffine-tuning-of-llama-2-7b-chat-for-python-code-generation-using-qlora-sfttrainer-and-gradient-checkpointing-on-the-alpaca-14k-dataset%2F
-
-
-https://towardsdatascience.com/neural-networks-intuitively-and-exhaustively-explained-0153f85c1007/
-
-
-https://towardsdatascience.com/manage-environment-variables-with-pydantic/
-
-
-https://towardsdatascience.com/understanding-model-calibration-a-gentle-introduction-visual-exploration/
-
-
-https://towardsdatascience.com/how-to-fine-tune-distilbert-for-emotion-classification/
-
-
-https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/
-
-
-https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-1/
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/20/building-an-ideation-agent-system-with-autogen-create-ai-agents-that-brainstorm-and-debate-ideas/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17402070205131&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F20%2Fbuilding-an-ideation-agent-system-with-autogen-create-ai-agents-that-brainstorm-and-debate-ideas%2F
-
-
-
-https://towardsdatascience.com/how-to-use-an-llm-powered-boilerplate-for-building-your-own-node-js-api/
-
-
-
-https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/23/building-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17403881745708&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F23%2Fbuilding-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers%2F
-
-
-
-https://towardsdatascience.com/6-common-llm-customization-strategies-briefly-explained/
-
-
-
-https://towardsdatascience.com/vision-transformers-vit-explained-are-they-better-than-cnns/
-
-https://www.kdnuggets.com/deepseek-level-ai-train-your-own-reasoning-model-in-just-7-easy-steps
-
-
-https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-2-10296098.html
-
-
-
-https://towardsdatascience.com/overcome-failing-document-ingestion-rag-strategies-with-agentic-knowledge-distillation/
-
-
-
-https://github.com/RichardRivaldo/Sentiment-Analysis?tab=readme-ov-file
-
-
-https://machinelearningmastery.com/the-beginners-guide-to-language-models-with-python/
-
-
-
-https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-3-10296358.html
-
-
-
-https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/03/11/a-step-by-step-guide-to-build-an-interactive-health-data-monitoring-tool-using-hugging-face-transformers-and-open-source-model-bio_clinicalbert/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17420052465955&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F03%2F11%2Fa-step-by-step-guide-to-build-an-interactive-health-data-monitoring-tool-using-hugging-face-transformers-and-open-source-model-bio_clinicalbert%2F
-
-
-https://towardsdatascience.com/are-you-still-using-lora-to-fine-tune-your-llm/
-
-
-https://realpython.com/langgraph-python/
-
-
-https://www.marktechpost.com/2025/03/19/a-coding-implementation-to-build-a-document-search-agent-docsearchagent-with-hugging-face-chromadb-and-langchain/?amp=
-
-
-https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-4-10296366.html
-
-
-https://machinelearningmastery.com/a-gentle-introduction-to-attention-and-transformer-models/
-
-https://towardsdatascience.com/data-science-from-school-to-work-part-iii/
+- https://towardsdatascience.com/build-a-general-purpose-ai-agent-c40be49e7400
+- https://github.com/Anello92/machine-learning-template
+- https://towardsdatascience.com/predicted-probability-explained-a-visual-guide-with-code-examples-for-beginners-7c34e8994ec2
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2024/12/10/hugging-face-releases-text-generation-inference-tgi-v3-0-13x-faster-than-vllm-on-long-prompts/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17342779084296&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2024%2F12%2F10%2Fhugging-face-releases-text-generation-inference-tgi-v3-0-13x-faster-than-vllm-on-long-prompts%2F
+- https://nlp-ensae.github.io/materials/
+- https://www.kdnuggets.com/visualizing-data-directly-numpy-arrays
+- https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/
+- https://www.kdnuggets.com/multimodal-rag-implementation-hugging-face
+- https://medium.com/@erdibillkaan/object-detection-and-face-recognition-with-yolov8n-356b22bacc48
+- https://dev.to/dwtoledo/how-to-use-deepseek-r1-for-free-in-visual-studio-code-with-cline-or-roo-code-3an9
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/01/27/building-a-retrieval-augmented-generation-rag-system-with-deepseek-r1-a-step-by-step-guide/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17380940202687&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F01%2F27%2Fbuilding-a-retrieval-augmented-generation-rag-system-with-deepseek-r1-a-step-by-step-guide%2F
+- https://github.com/Ajmal0197/DeepseekOllamaRag
+- https://levelup.gitconnected.com/llm-frameworks-in-action-building-rag-systems-with-langchain-llamaindex-and-haystack-a2ee324ee797
+- https://www.kdnuggets.com/10-advanced-python-tricks-data-scientists
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/02/creating-a-medical-question-answering-chatbot-using-open-source-biomistral-llm-langchain-chromas-vector-storage-and-rag-a-step-by-step-guide/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17385660996984&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F02%2Fcreating-a-medical-question-answering-chatbot-using-open-source-biomistral-llm-langchain-chromas-vector-storage-and-rag-a-step-by-step-guide%2F
+- https://towardsdatascience.com/a-visual-guide-to-how-diffusion-models-work/
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/08/fine-tuning-of-llama-2-7b-chat-for-python-code-generation-using-qlora-sfttrainer-and-gradient-checkpointing-on-the-alpaca-14k-dataset/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17391294054675&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F08%2Ffine-tuning-of-llama-2-7b-chat-for-python-code-generation-using-qlora-sfttrainer-and-gradient-checkpointing-on-the-alpaca-14k-dataset%2F
+- https://towardsdatascience.com/neural-networks-intuitively-and-exhaustively-explained-0153f85c1007/
+- https://towardsdatascience.com/manage-environment-variables-with-pydantic/
+- https://towardsdatascience.com/understanding-model-calibration-a-gentle-introduction-visual-exploration/
+- https://towardsdatascience.com/how-to-fine-tune-distilbert-for-emotion-classification/
+- https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/
+- https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-1/
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/20/building-an-ideation-agent-system-with-autogen-create-ai-agents-that-brainstorm-and-debate-ideas/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17402070205131&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F20%2Fbuilding-an-ideation-agent-system-with-autogen-create-ai-agents-that-brainstorm-and-debate-ideas%2F
+- https://towardsdatascience.com/how-to-use-an-llm-powered-boilerplate-for-building-your-own-node-js-api/
+- https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/02/23/building-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17403881745708&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F02%2F23%2Fbuilding-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers%2F
+- https://towardsdatascience.com/6-common-llm-customization-strategies-briefly-explained/
+- https://towardsdatascience.com/vision-transformers-vit-explained-are-they-better-than-cnns/
+- https://www.kdnuggets.com/deepseek-level-ai-train-your-own-reasoning-model-in-just-7-easy-steps
+- https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-2-10296098.html
+- https://towardsdatascience.com/overcome-failing-document-ingestion-rag-strategies-with-agentic-knowledge-distillation/
+- https://github.com/RichardRivaldo/Sentiment-Analysis?tab=readme-ov-file
+- https://machinelearningmastery.com/the-beginners-guide-to-language-models-with-python/
+- https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-3-10296358.html
+- https://www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/03/11/a-step-by-step-guide-to-build-an-interactive-health-data-monitoring-tool-using-hugging-face-transformers-and-open-source-model-bio_clinicalbert/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=Von%20%251%24s&aoh=17420052465955&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F03%2F11%2Fa-step-by-step-guide-to-build-an-interactive-health-data-monitoring-tool-using-hugging-face-transformers-and-open-source-model-bio_clinicalbert%2F
+- https://towardsdatascience.com/are-you-still-using-lora-to-fine-tune-your-llm/
+- https://realpython.com/langgraph-python/
+- https://www.marktechpost.com/2025/03/19/a-coding-implementation-to-build-a-document-search-agent-docsearchagent-with-hugging-face-chromadb-and-langchain/?amp=
+- https://www.heise.de/blog/Per-Anhalter-durch-die-KI-Galaxie-LLM-Crashkurs-Teil-4-10296366.html
+- https://machinelearningmastery.com/a-gentle-introduction-to-attention-and-transformer-models/
+- https://towardsdatascience.com/data-science-from-school-to-work-part-iii/
 
