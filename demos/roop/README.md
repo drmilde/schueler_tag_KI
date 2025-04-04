@@ -4,6 +4,10 @@ Leicht veraltet, funktioniert aber noch und liefert relativ schnell Ergebnisse.
 
 - https://github.com/s0md3v/roop
 
+## Bessere Version (?) hier 
+
+- https://github.com/Gourieff/ReActor-UI.git
+
 
 ## Erzeuge ein Arbeitsverzeichnis
 
