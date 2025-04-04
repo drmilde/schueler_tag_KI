@@ -32,3 +32,13 @@ pip install -r requirements.txt
 python run.py
 
 ```
+
+## Headless, also ohne GUI
+
+
+```
+
+python run.py -s bild_vom_gesicht.png -t video_auf_das_gemapped_wird.mp4 -o ergebnis_video.mp4
+
+
+```
