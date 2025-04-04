@@ -10,7 +10,7 @@ Leicht veraltet, funktioniert abe noch und liefert relativ schnell Ergebnisse.
 
 git clone https://github.com/s0md3v/roop.git
 deactivate
-python3 -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate
 cd roop
 pip install -r requirements.txt
