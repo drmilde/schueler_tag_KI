@@ -5,6 +5,15 @@ Leicht veraltet, funktioniert abe noch und liefert relativ schnell Ergebnisse.
 - https://github.com/s0md3v/roop
 
 
+## Erzeuge ein Arbeitsverzeichnis
+
+```
+mkdir roop_face_swap
+cd roop_face_swap
+
+````
+
+
 ## Clone repository and prepare venv and install requirements.txt
 ```
 
@@ -14,5 +23,12 @@ python3.10 -m venv venv
 source venv/bin/activate
 cd roop
 pip install -r requirements.txt
+
+```
+
+## Run the GUI
+
+```
+python run.py
 
 ```
