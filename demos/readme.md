@@ -27,7 +27,6 @@ entsprechende Version von torch und/oder tensorflow verwendet werden.
 
 # Soundverarbeitung
 
-- fer
 - spleeter (benötigt python 3.8)
 
 ## Bildverarbeitung
