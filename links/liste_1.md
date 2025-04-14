@@ -156,4 +156,6 @@ Ich hoffe, diese Informationen sind hilfreich.
 - https://t3n.de/news/ki-fuer-den-matheunterricht-warum-forschende-die-blickrichtungen-von-schulkindern-analysieren-1678948/
 - https://github.com/hacksider/Deep-Live-Cam
 - https://huggingface.co/spaces/hesamation/primer-llm-embedding?section=what_makes_a_good_embedding?
+- https://admantium.medium.com/llm-agents-multi-agent-chats-with-autogen-6c82e89f618e
+- 
 
