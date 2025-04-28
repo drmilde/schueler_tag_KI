@@ -1,0 +1,1 @@
+f5-tts_infer-cli -m F5-TTS -p models/model_295000.safetensors -v models/vocab.txt -r reference/de_angelina_hoerbuch_kurz.wav -s reference/de_angelina_hoerbuch_kurz.txt -t "Dies ist ein Test der Kommandozeile."
