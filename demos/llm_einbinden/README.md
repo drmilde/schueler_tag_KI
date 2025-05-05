@@ -27,6 +27,9 @@ man das System-Prompt und den User Prompt.
 
 ## chat_ollama.py
 
+Nachbau der Eingabeschleife von Ollama. Mann stellt eine Frage, das System antwortet entsprechend seiner Konfiguration, 
+bestehend 
+
 
 
 
