@@ -23,7 +23,16 @@ code .
 ## llm_einbinden.py
 
 Das Beispiel zeigt, wie man den Aufruf für ollama in python konfiguriert und durchführt. Bei LLMs unterscheidet
-man das System-Prompt und den User Prompt. Der Code konfiguriert die beiden Prompts in Abhängigkeit von der per Kommandozeilen-Argument übergebenen Text (also die eigentliche Frage). 
+man das System-Prompt und den User Prompt. Der Code konfiguriert die beiden Prompts in Abhängigkeit von der per Kommandozeilen-Argument übergebenen Text (also die eigentliche Frage): 
+
+```
+# 0) hier werden die Kommandozeilenargumente ausgewertet
+parser = argparse.ArgumentParser(description='Test von ollama und python')
+parser.add_argument('-t','--text', help='Kursbewertung, die eingeschätzt werden soll', required=True)
+args = vars(parser.parse_args())
+text = args["text"]
+
+```
 
 
 
