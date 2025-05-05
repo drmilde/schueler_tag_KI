@@ -20,3 +20,16 @@ code .
 
 ```
 
+## llm_einbinden.py
+
+Das Beispiel zeigt, wie man den Aufruf für ollama in python konfiguriert und durchführt. Bei LLMs unterscheidet
+man das System-Prompt und den User Prompt. 
+
+## chat_ollama.py
+
+
+
+
+
+
+
