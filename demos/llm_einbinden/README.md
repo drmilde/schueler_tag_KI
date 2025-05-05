@@ -23,7 +23,9 @@ code .
 ## llm_einbinden.py
 
 Das Beispiel zeigt, wie man den Aufruf für ollama in python konfiguriert und durchführt. Bei LLMs unterscheidet
-man das System-Prompt und den User Prompt. 
+man das System-Prompt und den User Prompt. Der Code konfiguriert die beiden Prompts in Abhängigkeit von der per Kommandozeilen-Argument übergebenen Text (also die eigentliche Frage). 
+
+
 
 ## chat_ollama.py
 
