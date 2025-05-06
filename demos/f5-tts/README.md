@@ -45,6 +45,14 @@ Dazu gibt es entsprechende vorbereitete Scripte. Für die deutsche Sprache finde
 auf Huggingface unter der folgenden Adresse: 
 
 - https://huggingface.co/aihpi/F5-TTS-German
+
+Bitte laden Sie zwei Dateien herunter (das Modell und die Beschreibung der bekannten Zeichen/Grapheme)
+
+```
+wget https://huggingface.co/aihpi/F5-TTS-German/blob/main/F5TTS_Base/model_295000.safetensors
+wget https://huggingface.co/aihpi/F5-TTS-German/blob/main/vocab.txt
+
+```
   
 
 
