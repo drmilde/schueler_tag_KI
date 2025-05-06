@@ -54,7 +54,9 @@ model_295000.safetensors
 vocab.txt
   - https://huggingface.co/aihpi/F5-TTS-German/tree/main
 
-  
+## Verwendung in F5-TTS
+
+
 
 
 
