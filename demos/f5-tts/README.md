@@ -48,11 +48,9 @@ auf Huggingface unter der folgenden Adresse:
 
 Bitte laden Sie zwei Dateien herunter (das Modell und die Beschreibung der bekannten Zeichen/Grapheme)
 
-```
-wget https://huggingface.co/aihpi/F5-TTS-German/blob/main/F5TTS_Base/model_295000.safetensors?download=true
-wget https://huggingface.co/aihpi/F5-TTS-German/resolve/main/vocab.txt?download=true
+- https://huggingface.co/aihpi/F5-TTS-German/blob/main/F5TTS_Base/model_295000.safetensors?download=true
+- https://huggingface.co/aihpi/F5-TTS-German/resolve/main/vocab.txt?download=true
 
-```
   
 
 
