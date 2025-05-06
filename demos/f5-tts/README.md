@@ -64,7 +64,8 @@ und
 3) Unter "advanced" geben Sie den Text des Referenzaudios ein
 4) Schliesslich können Sie zu synthetisierten Text ein und drücken den Button "synthesize"
 
- 
+F5-TTS erzeugt dann eine Ausgabe, die (hoffentlich) erkennbar die Stimmqualität der Audioreferenz übernimmt und eine Ausgabe 
+in hoher Sprachqualität liefert. 
 
 
 
