@@ -27,18 +27,6 @@ http://127.0.0.1:7860
 
 (CMD+CLick opens a new tab): http://127.0.0.1:7860
 
-
-# F5-TTS auf Deutsch
-
-Normalerweise läuft F5-TTS auf Englisch. Sie können aber ein eigenes Modell erzeugen (über finetuning). 
-Dazu gibt es entsprechende vorbereitete Scripte. Für die deutsche Sprache findet sich ein hervoragendes Modell
-auf Huggingface unter der folgenden Adresse: 
-
-
-- https://huggingface.co/aihpi/F5-TTS-German
-  
-
-
 # Recording the reference audio
 
 In order to work with the F5-TTS, you will nee to record a small audio sequence of the voice, that
@@ -48,6 +36,18 @@ should be synthesized.
 - The recording can be done using **Audacity**.
 - export the audio in WAV-format, mono, 16 kHz
 - make sure, that the volume is good (use normalize volume effect in Audacity)
+
+
+# F5-TTS auf Deutsch
+
+Normalerweise läuft F5-TTS auf Englisch. Sie können aber ein eigenes Modell erzeugen (über finetuning). 
+Dazu gibt es entsprechende vorbereitete Scripte. Für die deutsche Sprache findet sich ein hervoragendes Modell
+auf Huggingface unter der folgenden Adresse: 
+
+- https://huggingface.co/aihpi/F5-TTS-German
+  
+
+
 
 # Referenz F5-TTS
 
