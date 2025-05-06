@@ -56,6 +56,17 @@ vocab.txt
 
 ## Verwendung in F5-TTS
 
+Um das Model zu nutzen, schalten Sie in der Gradio Oberfläche von F5-TTS auf den Reiter "custom"
+und 
+
+1) geben dann die Pfade auf die Datein in das jeweilige EIngabefeld ein. Leider ist das etwas umständlich.
+2) Sie laden die Audio Referenz hoch
+3) Unter "advanced" geben Sie den Text des Referenzaudios ein
+4) Schliesslich können Sie zu synthetisierten Text ein und drücken den Button "synthesize"
+
+ 
+
+
 
 
 
