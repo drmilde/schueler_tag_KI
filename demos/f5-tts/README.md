@@ -48,8 +48,11 @@ auf Huggingface unter der folgenden Adresse:
 
 Bitte laden Sie zwei Dateien herunter (das Modell und die Beschreibung der bekannten Zeichen/Grapheme)
 
-- https://huggingface.co/aihpi/F5-TTS-German/tree/main/F5TTS_Base
-- https://huggingface.co/aihpi/F5-TTS-German/tree/main
+model_295000.safetensors
+  - https://huggingface.co/aihpi/F5-TTS-German/tree/main/F5TTS_Base
+
+vocab.txt
+  - https://huggingface.co/aihpi/F5-TTS-German/tree/main
 
   
 
