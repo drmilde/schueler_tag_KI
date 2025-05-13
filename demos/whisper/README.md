@@ -78,6 +78,51 @@ hash -r
 
 ```
 
+Jetzt sollten Sie ffmpeg aufrufen können: 
+
+```
+ffmpeg
+
+```
+
+## Erzeugen einer .bashrc
+
+Damit diese Änderung permanent wird, können Sie den Befehl zu Pfaderweiterung auch in die Datei **.bashrc**
+einfügen.
+
+Prüfen Sie zunächst, ob bereits eine **.bashrc** existiert:
+
+```
+cd
+ls .bashrc
+
+```
+
+Mit **cd* kehren Sie in ihr Heimatverzeichnis zurück. Dort muss die **.bashrc** liegen.
+Ist keine datei vorhanden, dann erhalten sie eine entsprechend Fehlermeldung. In diesem Fall
+können Sie eine leere Datei anlegen:
+
+
+```
+touch .bashrc
+
+```
+
+Anschließen öffnen Sie vscode und fügen den export Befehl von weiter oben ein.
+
+```
+code .bashrc
+
+```
+
+wenn Sie jetzt ein neues Terminal öffnen und die bash starten, sollte ffmpeg im
+Suchpfad eingetragen sein und sie können das programm aufrufen.
+
+
+
+
+
+
 
 
 
