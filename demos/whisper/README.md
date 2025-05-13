@@ -115,8 +115,8 @@ code .bashrc
 
 ```
 
-wenn Sie jetzt ein neues Terminal öffnen und die bash starten, sollte ffmpeg im
-Suchpfad eingetragen sein und sie können das programm aufrufen.
+Wenn Sie jetzt ein neues Terminal öffnen und die bash starten, sollte **ffmpeg** im
+Suchpfad eingetragen sein und sie können das Programm aufrufen.
 
 
 
