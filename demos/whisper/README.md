@@ -49,5 +49,43 @@ sh ./do_it.sh
 Whisper gilt aktuell als der Goldstandard im Bereich der STT Systeme. Es ist ausgerichtet auf die Erfassung von langen Sprachaufnahmen. 
 
 - https://github.com/openai/whisper
+
+
+## Fehlerhafte Installation von ffmpeg korrigieren
+
+Es scheint so zu sein, dass auf den Rechnern im MacLab der Pfad auf die mit homebrew installierten tools nicht gesetzt ist.
+
+Bitte testen Sie zunächst, ob das folgende Verzeichnis existiert:
+
+```
+ls /opt/homebrew/bin/
+
+```
+
+Sollte hier eine Ausgabe derfolgen, dann wurden die tools installiert. Fügen Sie das Verzeichnis zum Pfad hinzu:
+
+
+```
+export PATH=$PATH:/opt/homebrew/bin/
+
+```
+
+und laden sie ihn neu
+
+
+```
+hash -r
+
+```
+
+
+
+
+
+
+
+
+
+
   
 
