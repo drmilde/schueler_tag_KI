@@ -98,9 +98,9 @@ ls .bashrc
 
 ```
 
-Mit **cd* kehren Sie in ihr Heimatverzeichnis zurück. Dort muss die **.bashrc** liegen.
+Mit **cd** kehren Sie in ihr Heimatverzeichnis zurück. Dort muss die **.bashrc** liegen.
 Ist keine datei vorhanden, dann erhalten sie eine entsprechend Fehlermeldung. In diesem Fall
-können Sie eine leere Datei anlegen:
+können Sie eine leere **.bashrc**-Datei anlegen:
 
 
 ```
@@ -108,7 +108,7 @@ touch .bashrc
 
 ```
 
-Anschließen öffnen Sie vscode und fügen den export Befehl von weiter oben ein.
+Anschließen öffnen Sie vscode und fügen den export Befehl von weiter oben ein (**export PATH=$PATH:/opt/homebrew/bin/**)
 
 ```
 code .bashrc
