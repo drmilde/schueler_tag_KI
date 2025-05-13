@@ -25,3 +25,11 @@ python getTheModel.py
 
 ```
 
+
+## Referenz
+
+Basierend auf:
+
+- https://github.com/mallorbc/whisper_mic
+  
+
