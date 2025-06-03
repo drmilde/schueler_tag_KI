@@ -36,7 +36,14 @@ python erkenner.py
 ## Test mit Einzelbild
 
 ```
-python test
+python test_model.py
+
+```
+
+## Test mit Live Cam
+
+```
+python test_live_cam.py
 
 ```
 
