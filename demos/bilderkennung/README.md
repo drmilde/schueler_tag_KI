@@ -24,3 +24,8 @@ python keras_opencv.py
 
 ```
 
+
+## Patch bei python version > 3.8
+
+
+
