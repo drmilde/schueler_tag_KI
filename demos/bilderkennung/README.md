@@ -27,5 +27,22 @@ python keras_opencv.py
 
 ## Patch bei python version > 3.8
 
+Sollte beim Starten der Anwendung ein Ladefehler angezeigt werden, der sich auf "groups" bezieht, dann muss dieser Eintrag während des Ladens
+entfernt werden. 
+
+Öffnet die Datei
+
+```
+ code ./venv/lib/python3.10/site-packages/keras/src/ops/operation.py
+
+```
+
+
+```
+if "groups" in config:
+    config.pop("groups")
+
+```
+
 
 
