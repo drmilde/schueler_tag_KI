@@ -33,4 +33,12 @@ python erkenner.py
 
 ```
 
+## Test mit Einzelbild
+
+```
+python test
+
+```
+
+
 
