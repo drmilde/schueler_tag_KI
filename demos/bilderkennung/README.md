@@ -44,7 +44,7 @@ if "groups" in config:
 
 ```
 
-(operation.py.screenshot.png)
+!(operation.py.screenshot.png "Gepatchte Datei")
 
 
 
