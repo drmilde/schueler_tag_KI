@@ -19,7 +19,6 @@ pip install -r requirements.txt
 
 ```
 
-
 ## Labelstudio
 
 Die Daten wurden mit Labelstudio annotiert
@@ -27,6 +26,8 @@ Die Daten wurden mit Labelstudio annotiert
 - https://github.com/HumanSignal/label-studio
 
 ## Training
+
+Zum Training muss das zip-Archiv im Verzeichnis **datasets** expandiert werden. 
 
 ```
 python erkenner.py
