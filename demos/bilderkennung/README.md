@@ -36,13 +36,16 @@ entfernt werden.
  code ./venv/lib/python3.10/site-packages/keras/src/ops/operation.py
 
 ```
-
+Fügt den folgenden code in Datei ein:
 
 ```
 if "groups" in config:
     config.pop("groups")
 
 ```
+
+
+
 
 
 
