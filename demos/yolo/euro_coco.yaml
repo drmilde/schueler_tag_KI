@@ -1,0 +1,30 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+# euro Dataset als Beispiel für das training auf spezielle eigene Obejkte
+# erzuegt und nachbearbeitet mit labelstudio
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── euro_coco  ← downloads here (1 MB)
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../datasets/euro_coco # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: 10_cent_back
+  1: 10_cent_front
+  2: 1_cent_back
+  3: 1_cent_front
+  4: 1_euro_back
+  5: 1_euro_front
+  6: 50_cent_back
+  7: 50_cent_front
+  8: 5_cent_back
+  9: 5_cent_front
+
+# Download script/URL (optional)
+# download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco8.zip
